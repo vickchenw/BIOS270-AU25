@@ -1,0 +1,152 @@
+[33mcommit 35b4f8c79b99fb322dacff8a064f9a97231aec1e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Sun Nov 9 18:05:39 2025 -0800
+
+    Remove job array specification from pipeline script
+
+[33mcommit 5560f1c754542e793ff06e3566a3a6833efa720a[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Sat Nov 8 12:06:07 2025 -0800
+
+    BIO-17: Add Pipeline Lecture (#9)
+
+[33mcommit 3b3b6acd3a98072448af818845ad14d57c6070f3[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Sat Nov 8 11:53:05 2025 -0800
+
+    BIO-16: Add Data lecture content (#8)
+    
+    * BIO-16: add Data lecture content
+
+[33mcommit e8d2a4a9a6a081128c67c550f0b196a7a4c63f58[m
+Author: Khoa Hoang <khoang99@stanford.edu>
+Date:   Thu Nov 6 00:28:00 2025 -0800
+
+    update README
+
+[33mcommit ba89022315215f502200febf7d6f0bcd678fca85[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Wed Nov 5 23:57:06 2025 -0800
+
+    Fix package names and update singularity commands
+    
+    Updated package names and corrected environment file references.
+
+[33mcommit 3239ae3a3b922c0e818ad0e009ca30515f7a96b1[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Wed Nov 5 23:44:50 2025 -0800
+
+    BIO-15: Add Env lecture (#7)
+
+[33mcommit a1e3ddf70a7a1b00969b705dc1bb504e71442fcf[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Wed Nov 5 23:00:14 2025 -0800
+
+    Add Setup lecture content (#6)
+    
+    * BIO-14: add Setup guide
+
+[33mcommit 7e5fe63fa34f7d40f3999ecfafc506a50d225f46[m
+Author: Khoa Hoang <khoang99@stanford.edu>
+Date:   Wed Nov 5 21:59:04 2025 -0800
+
+    recover HW1
+
+[33mcommit 4704d8c3eabb832438d21cce9a546f48fb79b8bf[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Wed Nov 5 21:51:21 2025 -0800
+
+    BIO-2: Add HW2 (#4)
+
+[33mcommit 7d189ed79d906bf77236de91ad156fc2f9e8b4d1[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Thu Oct 23 21:21:27 2025 -0700
+
+    Revise GitHub setup instructions in HW1.md
+    
+    Move Github account creation to the beginning
+
+[33mcommit 14274f5572b46e65e5517aef1f58cfefc2c85824[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Sun Oct 19 22:35:22 2025 -0700
+
+    Rename README.md to HW1.md
+
+[33mcommit 0fe2508022fe2974cb74a5cbb3667f8d021aa46b[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Fri Oct 17 13:55:20 2025 -0700
+
+    BIO-1: Add HW1 (#3)
+    
+    * add HW1
+    
+    * update HW1
+    
+    * BIO-1: update hw1 in Jira section
+    
+    * update hw1
+    
+    * Fix task ID in commit message example
+    
+    * Add questions to HW Part A
+    
+    Added questions for HW Part A regarding Git concepts.
+    
+    * Clarify cloning instructions for Farmshare
+    
+    Updated instructions to specify cloning to Farmshare.
+    
+    * Clarify tutorial screenshots section in HW1.md
+    
+    * doc: update HW1.md
+    
+    * doc: update HW1.md
+    
+    * doc: update HW1.md
+    
+    * refactor: update HW1 name
+    
+    * Add screenshot transfer instructions to README
+    
+    Added instructions for copying screenshots to Farmshare using scp.
+
+[33mcommit dac07877f81357ff3064f232e33a4904a5a0a73d[m
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Thu Oct 16 14:03:32 2025 -0700
+
+    doc: update writeup0.md format
+    
+    Updated section headers from H3 to H4 for consistency and improved readability.
+
+[33mcommit 0a6c1679d1238de987ad44fa194aa3c8db4624be[m
+Merge: 4a07558 eeecf88
+Author: Khoa Hoang <67357807+khoa-yelo@users.noreply.github.com>
+Date:   Thu Oct 9 23:33:02 2025 -0700
+
+    Merge pull request #1 from khoa-yelo/khoa/writeups
+    
+    Add write-up template
+
+[33mcommit eeecf885723d991f88453f7b8ade07192093f821[m
+Author: Khoa Hoang <khoang99@stanford.edu>
+Date:   Thu Oct 9 23:25:26 2025 -0700
+
+    doc: add write-up template
+
+[33mcommit 4a07558fde9b1a41d8a62ef4c33fdbc746964bb4[m
+Author: Khoa Hoang <khoang99@stanford.edu>
+Date:   Tue Sep 30 05:19:09 2025 -0700
+
+    update README
+
+[33mcommit 69db73d86edd5340ea86530b5e104d84b4be4839[m
+Author: Khoa Hoang <khoang99@stanford.edu>
+Date:   Tue Sep 30 05:13:41 2025 -0700
+
+    update README
+
+[33mcommit 5645253c0b358e9801c69168286ec29823a50254[m
+Author: Khoa Hoang <khoang99@stanford.edu>
+Date:   Tue Sep 30 04:38:24 2025 -0700
+
+    first commit
